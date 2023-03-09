@@ -1,0 +1,10 @@
+NUNCA circuitar o GND com 5V
+
+Para compilar e mandar o programa:
+
+1 - clicar no tick de postiivo (COMPILA)
+2 - se a compilação deu certo, clicar na seta para a direita (ENVIA PARA O ARDUINO)
+
+ANTES, configurar o arduino no ambiente:
+ferramentas -> Porta: escolher a porta do arduino
+ferramentas -> Placa: escolher o modelo do arduino sendo utilizado
